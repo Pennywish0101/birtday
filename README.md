@@ -8,4 +8,4 @@
 ## Usage
 
 ```bash
-chmod +x birthday_wish.sh && ./birthday_wish.sh
+chmod +x birthday.sh && ./birthday.sh
