@@ -4,3 +4,8 @@
 - **figlet**: A tool for generating large text banners in various typefaces. Install it using:
   ```bash
   sudo apt-get install figlet
+
+## Usage
+
+```bash
+chmod +x birthday_wish.sh && ./birthday_wish.sh
