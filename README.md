@@ -1,9 +1,6 @@
-Ensure figlet is installed:
+## Requirements
 
-sudo apt-get install figlet
-
-https://github.com/Pennywish0101/birtday.git
-
-chmod +x birthday_wish.sh
-
-./birthday_wish.sh
+- **Bash**: The script runs in a Bash shell.
+- **figlet**: A tool for generating large text banners in various typefaces. Install it using:
+  ```bash
+  sudo apt-get install figlet
